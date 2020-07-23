@@ -1,5 +1,3 @@
 # Sprout
 
-Game dev project from Treetop Studios
-
-![Gameplay](/Images/gameplay.png)
+[Link to App Store](https://apps.apple.com/us/app/sprouts-garden/id1514674303)
