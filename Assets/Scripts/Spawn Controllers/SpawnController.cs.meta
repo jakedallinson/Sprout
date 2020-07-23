@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c5c95037ab5644d39b214dd45b314037
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weasel: {fileID: 748148015470582244, guid: 057cbd7ae67aa49919565ba9f8120987, type: 3}
+  - carrot: {fileID: 4922085519161893840, guid: 62f4a85839c8647afad6f5d407debbef,
+      type: 3}
+  - OverheadCamera: {instanceID: 0}
+  - CarrotPowerUp: {fileID: 1734018865758536982, guid: ab101dccc6f4149e7a1ac3bbac005c61,
+      type: 3}
+  - BombPowerUp: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

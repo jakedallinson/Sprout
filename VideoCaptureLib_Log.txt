@@ -1,0 +1,6 @@
+[LOG]: [FFmpegLib]: DEST URL: /Users/jakeallinson/RockVR/Video/2020-05-15-19-43-24-ZPYXT.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/jakeallinson/Projects/Sprout/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1920x1080 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/jakeallinson/RockVR/Video/2020-05-15-19-43-24-ZPYXT.mp4"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/jakeallinson/RockVR/Video/2020-05-15-19-44-49-EFH8R.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/jakeallinson/Projects/Sprout/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1920x1080 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/jakeallinson/RockVR/Video/2020-05-15-19-44-49-EFH8R.mp4"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process

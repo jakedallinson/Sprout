@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Carrot
+  - Weasel
+  - FxTemporaire
+  - Start_Button
+  - Weasel_Face
+  - Dash_Button
+  - Instructions_Button
+  - About_Button
+  - Retry_Button
+  - Quit_Button
+  - Fence
+  - Carrot_Particle
+  - Joystick_Background
+  - Joystick_Thumb
+  - Joystick
+  - Counter_Graphic
+  - Carrot_Text
+  - Weasel_Text
+  - Wave_Text
+  - End_Text
+  - Main_Music
+  - Item_Planter
+  - Plant_Zone
+  - Ground
+  - Garden
+  - OverheadCamera
+  - CarrotPowerUp
+  - GameplayVisuals
+  - PlantCarrotsVisuals
+  - EnemyStompParticle
+  - MainMusic
+  - SproutMusic
+  - SoundButton
+  - MusicSources
+  - SpawnMusic
+  - SceneLoader
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
